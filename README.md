@@ -1,4 +1,4 @@
-# UX-och-Usability
+# UX-och-Usability uppgift - Verktygsbiblioteket Stickan
 
 En liten checklista
 
@@ -23,7 +23,7 @@ En liten checklista
 ● Eventuellt ändra flödet
 
 
-# Individuell uppgift - Verktygsbiblioteket Stickan
+
 ## Bakgrund
 Idag lever vi i ett konsumtionssamhälle utan dess like där ägandeskap är lika vanligt och
 självklart som luften vi andas. Men måste man äga allt? Kan man inte bara låna när man
