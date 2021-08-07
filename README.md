@@ -2,14 +2,23 @@
 
 En liten checklista
 ● Följ UX-processen
+
 ● Empathize - lär känna dina användare
+
 ● Skapa personas
+
 ● Gör en user journey map
+
 ● Kom på idéer! - anamma din kreativa sida
+
 ● Skapa en mock-up
+
 ● lo-fi/hi-fi
+
 ● Prototypa upp
+
 ● Testa
+
 ● Eventuellt ändra flödet
 
 
