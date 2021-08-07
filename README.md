@@ -1,8 +1,8 @@
 # UX-och-Usability uppgift - Verktygsbiblioteket Stickan
 
-Länk till projektet i figma: https://www.figma.com/file/huXYCiT7sGVWLpCZK67IZv/Verktygs-H%C3%A5lan?fuid=885107786523491987
+## Länk till projektet i [figma](https://www.figma.com/file/huXYCiT7sGVWLpCZK67IZv/Verktygs-H%C3%A5lan?fuid=885107786523491987) 
 
-En liten checklista
+### En liten checklista
 
 ● Följ UX-processen
 
